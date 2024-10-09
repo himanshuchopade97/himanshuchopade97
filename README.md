@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chopade</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuchopade97" alt="himanshuchopade97" /></a> </p>
-
 - 🔭 I’m currently working on [Secura](https://github.com/himanshuchopade97/secura)
 
 - 🌱 I’m currently learning **Flutter, Firebase**
