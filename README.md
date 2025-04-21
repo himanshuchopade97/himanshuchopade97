@@ -17,8 +17,8 @@
 <a href="https://stackoverflow.com/users/27709082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27709082" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshuuuwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshuuuwu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himanshu_chopade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshu_chopade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshuchopade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshuchopade" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/himanshuchopade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshuchopade" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/himanshuchopade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshuchopade" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/himanshuchopade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshuchopade" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
